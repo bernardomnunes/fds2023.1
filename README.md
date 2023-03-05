@@ -9,3 +9,6 @@
 
 # Link do jira
 - https://fds-2023--1.atlassian.net/jira/software/projects/F21/boards/1/roadmap
+
+# Definição do produto
+- 
